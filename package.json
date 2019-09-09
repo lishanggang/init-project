@@ -1,0 +1,14 @@
+{
+  "name": "init-project",
+  "version": "0.1.0",
+  "description": "初始化框架",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "yarn || npm install || cnpm install"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "lishanggang",
+  "license": "MIT"
+}
